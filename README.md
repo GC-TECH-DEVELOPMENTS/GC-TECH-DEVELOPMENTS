@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm We're GC-TECH, an E-liquid manufacturing company based in Australia </h1>
-<h3 align="center">""</h3>
+<h1 align="center">Hi 👋, We're GC-TECH.</h1>
+<h3 align="center">An E-liquid manufacturing company based in Australia</h3>
 
 - 👨‍💻 All of our projects are currently private - contact us for exclusive access!
 
